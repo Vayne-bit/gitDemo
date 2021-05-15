@@ -8,5 +8,4 @@ hello world!
 hello world!
 hello world!
 hello world!
-master test
-first hot!  hot test!
+hello master!!
